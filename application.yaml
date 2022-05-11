@@ -8,7 +8,7 @@ spec:
 
 
   source: 
-      repoRL: https://github.com/Hilful/Demo-project-argocd-test.git
+      repoURL: https://github.com/Hilful/Demo-project-argocd-test.git
       targetRevision: HEAD
       path: dev
   destination:
